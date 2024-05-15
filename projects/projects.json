@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Movie Information",
+    "desc": "Fully fledged website about Stranger Things, built using HTML and CSS",
+    "image": "movie",
+    "category": "HTML",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+
+
+  {
+    "name": "Skill Development Centre",
+    "desc": "Full-Stack website for a business offering courses to teach skills, built using HTML and CSS",
+    "image": "skilldevcentre",
+    "category": "HTML",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
