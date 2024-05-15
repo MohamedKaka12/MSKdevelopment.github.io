@@ -217,7 +217,7 @@ header .navbar ul li a:hover {
   border-radius: 50%;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
-  height: 450px;
+  
 }
 .home .image img:hover {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
@@ -334,6 +334,8 @@ header .navbar ul li a:hover {
   }
   .home .image img {
     margin-top: -12rem;
+    width: 187px;
+    height: 250px;
     
   }
   .home .content p {
