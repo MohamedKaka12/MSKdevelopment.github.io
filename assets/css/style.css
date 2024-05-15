@@ -334,8 +334,8 @@ header .navbar ul li a:hover {
   }
   .home .image img {
     margin-top: -12rem;
-    width: 187px;
-    height: 250px;
+    width: 0px;
+    height: 0px;
     
   }
   .home .content p {
