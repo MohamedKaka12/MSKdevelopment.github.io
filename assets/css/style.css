@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap");
 
 * {
   margin: 0;
@@ -18,7 +18,7 @@ html {
 }
 body {
   background: #f7f7f7;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 *::selection {
@@ -96,7 +96,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #03FA6E;
 }
 header .navbar ul {
   list-style: none;
@@ -230,7 +230,7 @@ header .navbar ul li a:hover {
 .home .content h2 span {
   font-size: 5rem;
   font-weight: 800;
-  color: #ff7b00;
+  color: #03FA6E;
 }
 .home .content p {
   font-size: 2.5rem;
@@ -254,7 +254,7 @@ header .navbar ul li a:hover {
   color: #fff;
   background: #2506ad;
   box-shadow: 0px 5px 18px rgba(48, 68, 247, 0.6);
-  font-family: "Nunito", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .home .btn span {
   font-weight: 700;
@@ -290,7 +290,7 @@ header .navbar ul li a:hover {
   font-size: 2rem;
   display: inline-block;
   line-height: 44px;
-  color: #00d9ff;
+  color: #03FA6E;
   background-color: #09011b;
   width: 44px;
   height: 44px;
@@ -393,7 +393,7 @@ header .navbar ul li a:hover {
 .about .row .content p {
   font-size: 1.5rem;
   margin-top: 1.5rem;
-  font-family: "Nunito";
+  font-family: "Montserrat";
   font-weight: 600;
   text-transform: none;
 }
@@ -401,7 +401,7 @@ header .navbar ul li a:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
-  font-family: "Nunito";
+  font-family: "Montserrat";
   font-weight: 600;
 }
 .about .row .content .box-container .box p {
@@ -420,7 +420,7 @@ header .navbar ul li a:hover {
   color: #fff;
   background: #2506ad;
   box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
-  font-family: "Nunito", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .resumebtn .btn span {
   font-weight: 600;
@@ -471,7 +471,7 @@ header .navbar ul li a:hover {
   color: #fff;
 }
 .skills .heading span {
-  color: rgb(255, 230, 0);
+  color: #03FA6E;
 }
 .skills .container {
   background: rgba(0, 0, 22, 0.4);
@@ -513,7 +513,7 @@ header .navbar ul li a:hover {
 .skills .container .bar .info span {
   font-size: 2rem;
   font-weight: 500;
-  font-family: "Poppins";
+  font-family: "Montserrat";
   margin-left: 0.5rem;
 }
 /* skills media queries starts*/
@@ -544,7 +544,7 @@ header .navbar ul li a:hover {
 .education .qoute {
   font-size: 1.5rem;
   text-align: center;
-  font-family: "Nunito", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 600;
   margin-top: 0.5rem;
 }
@@ -608,7 +608,7 @@ header .navbar ul li a:hover {
   color: rgb(34, 109, 0);
   text-align: left;
   margin: 1rem;
-  font-family: "Nunito", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
 }
 
@@ -653,7 +653,7 @@ header .navbar ul li a:hover {
   padding: 1rem;
 }
 .work .heading span {
-  color: rgb(255, 230, 0);
+  color: #03FA6E;
 }
 .work .box-container {
   display: flex;
@@ -692,7 +692,7 @@ header .navbar ul li a:hover {
   height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
-  background: #ffd900;
+  background: #03FA6E;
 }
 .work .box-container .box .content .tag h3 {
   font-size: 2rem;
@@ -747,7 +747,7 @@ header .navbar ul li a:hover {
 .work .viewall .btn span {
   font-weight: 600;
   font-size: 1.7rem;
-  font-family: "Nunito", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .work .viewall .btn i {
   margin-left: 0.3rem;
@@ -794,7 +794,7 @@ header .navbar ul li a:hover {
   height: 25px;
   right: -17px;
   background-color: rgb(255, 255, 255);
-  border: 4px solid #ff9f55;
+  border: 4px solid #03FA6E;
   top: 15px;
   border-radius: 50%;
   z-index: 100;
@@ -819,9 +819,9 @@ header .navbar ul li a:hover {
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid #f68c09;
+  border: medium solid #03FA6E;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #f68c09;
+  border-color: transparent transparent transparent #03FA6E;
 }
 /* arrows pointing left  */
 .experience .right::before {
@@ -832,15 +832,15 @@ header .navbar ul li a:hover {
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid #f68c09;
+  border: medium solid #03FA6E;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #f68c09 transparent transparent;
+  border-color: transparent #03FA6E transparent transparent;
 }
 .experience .right::after {
   left: -16px;
 }
 .experience .content {
-  background-color: #f68c09;
+  background-color: #03FA6E;
   position: relative;
   border-radius: 6px;
 }
@@ -879,7 +879,7 @@ header .navbar ul li a:hover {
 .morebtn .btn span {
   font-weight: 600;
   font-size: 1.7rem;
-  font-family: "Nunito", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .morebtn .btn i {
   margin-left: 0.3rem;
@@ -914,9 +914,9 @@ header .navbar ul li a:hover {
   }
   .experience .container::before {
     left: 61px;
-    border: medium solid #f68c09;
+    border: medium solid #03FA6E;
     border-width: 10px 10px 10px 0;
-    border-color: transparent #f68c09 transparent transparent;
+    border-color: transparent #03FA6E transparent transparent;
   }
   .experience .left::after {
     left: 15px;
@@ -994,7 +994,7 @@ form .message textarea {
   outline: none;
   padding: 0 16px 0 48px;
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
   border-radius: 5px;
   border: 1px solid rgb(51, 51, 51);
   background: #e5ecfb;
@@ -1048,7 +1048,7 @@ form .button-area {
   background: #2506ad;
   box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
   transition: 0.3s ease;
-  font-family: "Nunito", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .button-area button:hover {
   background: #421cecf5;
@@ -1120,7 +1120,7 @@ form .button-area {
 }
 .footer .box-container .box p i {
   padding-right: 1rem;
-  color: #ffae00;
+  color: #03FA6E;
 }
 .footer .box-container .box a {
   font-size: 1.5rem;
@@ -1129,7 +1129,7 @@ form .button-area {
   display: block;
 }
 .footer .box-container .box a:hover {
-  color: #ffae00;
+  color: #03FA6E;
 }
 .footer .box-container .box .share {
   display: flex;
@@ -1153,19 +1153,19 @@ form .button-area {
   background: transparent;
   transform: scale(0.98);
   border: 0.1rem solid rgb(180, 178, 178);
-  color: #ffae00;
+  color: #03FA6E;
 }
 .footer .credit {
   padding: 1rem 0 0 0;
   text-align: center;
   font-size: 1.5rem;
-  font-family: "Nunito", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 600;
   color: #fff;
   border-top: 0.1rem solid #fff3;
 }
 .footer .credit a {
-  color: #ffae00;
+  color: #03FA6E;
 }
 .footer .fa {
   color: #e90606;
@@ -1217,7 +1217,7 @@ form .button-area {
   right: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
-  background: #ffae00;
+  background: #03FA6E;
   color: rgb(13, 0, 44);
   border-radius: 50%;
   transition: 1s linear;
